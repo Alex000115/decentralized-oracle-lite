@@ -1,0 +1,12 @@
+{
+  "name": "decentralized-oracle-lite",
+  "version": "1.0.0",
+  "description": "Simple Decentralized Data Oracle",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
